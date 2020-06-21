@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-bootstrap",
+  "version": "1.0.0",
+  "description": "My ace Nuxt.js project",
+  "author": "Isaak",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "local-web-server": "^4.2.1",
+    "nuxt": "^2.0.0",
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {}
+}
