@@ -17,7 +17,8 @@
     "bootstrap-vue": "^2.0.0",
     "local-web-server": "^4.2.1",
     "nuxt": "^2.0.0",
-    "ws": "^7.3.0"
+    "ws": "^7.3.0",
+    "elliptic": ">=6.5.3"
   },
   "devDependencies": {}
 }
