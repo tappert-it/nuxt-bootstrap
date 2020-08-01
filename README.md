@@ -1,7 +1,7 @@
 > Beispielprojekt für eine Anwendung mit dem Framework Nuxt.js.
 >
-> Das dazugehörige Projekt findet sich im Entwickler-Magazin / Ausgabe August 2020.
->
+> Das dazugehörige Projekt findet sich im Entwickler-Magazin / Ausgabe August 2020:
+> https://kiosk.entwickler.de/entwickler-magazin/entwickler-magazin-5-2020/nuxt-js-vue-js-mit-extras/
 >
 > Nutzung vollständig auf eigene Gefahr und Verantwortung.
 >
