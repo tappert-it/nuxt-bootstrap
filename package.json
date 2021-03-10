@@ -18,7 +18,7 @@
     "local-web-server": "^4.2.1",
     "nuxt": "^2.0.0",
     "ws": "^7.3.0",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   },
   "devDependencies": {}
 }
